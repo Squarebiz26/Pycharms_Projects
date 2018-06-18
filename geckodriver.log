@@ -1,0 +1,23 @@
+1503597709433	geckodriver	INFO	geckodriver 0.18.0
+1503597709437	geckodriver	INFO	Listening on 127.0.0.1:49623
+1503597715293	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503597719458	Marionette	INFO	Listening on port 49643
+1503597719547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503597719710	Marionette	DEBUG	loaded listener.js
+1503597719755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-24 11:01:59.778 plugin-container[1674:422009] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 11:01:59.779 plugin-container[1674:422009] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503597721401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503597721401	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503597722289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testdemy.com/"
+1503597723569	Marionette	DEBUG	Received DOM event "pageshow" for "http://testdemy.com/"
+1503597723581	Marionette	DEBUG	Received DOM event "pageshow" for "http://testdemy.com/"
+1503597723612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testdemy.com/"
+1503597723612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://testdemy.com/"
+1503597723776	Marionette	DEBUG	Received DOM event "pageshow" for "http://testdemy.com/"
+1503597724135	Marionette	DEBUG	Received DOM event "pageshow" for "http://testdemy.com/"
+1503597725757	Marionette	DEBUG	Received DOM event "pageshow" for "http://testdemy.com/"
+1503597725850	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
